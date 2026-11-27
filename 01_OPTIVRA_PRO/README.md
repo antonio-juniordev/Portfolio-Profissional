@@ -72,59 +72,59 @@ As imagens a seguir apresentam os principais módulos e recursos do Optivra Pro.
 ## 7.1 Interface e gestão
 
 ### Tela inicial
-![Tela inicial](imagens/01-tela-inicial.png)
+![Tela inicial](01_OPTIVRA_PRO/imagens/01-tela-inicial.png)
 
 ### Cadastro de pacientes
-![Cadastro de pacientes](imagens/02-cadastro-paciente.png)
+![Cadastro de pacientes](01_OPTIVRA_PRO/imagens/02-cadastro-paciente.png)
 
 ### Painel de consultas
-![Painel de consultas](imagens/03-painel-consultas.png)
+![Painel de consultas](01_OPTIVRA_PRO/imagens/03-painel-consultas.png)
 
 ## 7.2 Consultas e prontuário
 
 ### Ficha de consulta
-![Ficha de consulta](imagens/04-ficha-consulta.png)
+![Ficha de consulta](01_OPTIVRA_PRO/imagens/04-ficha-consulta.png)
 
 ### Ficha de consulta — continuação
-![Ficha de consulta continuação](imagens/05-ficha-consulta1.png)
+![Ficha de consulta continuação](01_OPTIVRA_PRO/imagens/05-ficha-consulta1.png)
 
 ### Prontuário
-![Prontuário](imagens/06-prontuario.png)
+![Prontuário](01_OPTIVRA_PRO/imagens/06-prontuario.png)
 
 ## 7.3 Acompanhamento
 
 ### Pós-consulta
-![Pós-consulta](imagens/07-pos-consulta.png)
+![Pós-consulta](01_OPTIVRA_PRO/imagens/07-pos-consulta.png)
 
 ### Retornos anuais
-![Retornos anuais](imagens/08-retornos-anuais.png)
+![Retornos anuais](01_OPTIVRA_PRO/imagens/08-retornos-anuais.png)
 
 ### Aniversariantes
-![Aniversariantes](imagens/09-aniversarios.png)
+![Aniversariantes](01_OPTIVRA_PRO/imagens/09-aniversarios.png)
 
 ### Central de relatórios
-![Central de relatórios](imagens/10-central-relatorios.png)
+![Central de relatórios](01_OPTIVRA_PRO/imagens/10-central-relatorios.png)
 
 ---
 
 # 8. Documentos e relatórios gerados
 
-Além da interface, o sistema oferece recursos para geração e organização de documentos.
+O sistema também oferece recursos para geração de documentos e exportação de informações.
 
 ### Receita óptica
-![Receita óptica](imagens/11-receita_optica.png)
+![Receita óptica](01_OPTIVRA_PRO/imagens/11-receita_optica.png)
 
 ### Relatório demonstrativo
-![Relatório demonstrativo](imagens/12-relatorio.png)
+![Relatório demonstrativo](01_OPTIVRA_PRO/imagens/12-relatorio.png)
 
 ### Relatório de aniversariantes
-![Relatório de aniversariantes](imagens/13-relatorio_aniversariantes_ficticio.png)
+![Relatório de aniversariantes](01_OPTIVRA_PRO/imagens/13-relatorio_aniversariantes_ficticio.png)
 
 ### Relatório de pós-consulta
-![Relatório de pós-consulta](imagens/14-relatorio_pos_consulta.png)
+![Relatório de pós-consulta](01_OPTIVRA_PRO/imagens/14-relatorio_pos_consulta.png)
 
 ### Exportação para Excel
-![Relatório Excel](imagens/15-relatorio_xls_ficticio.png)
+![Relatório Excel](01_OPTIVRA_PRO/imagens/15-relatorio_xls_ficticio.png)
 
 ---
 
