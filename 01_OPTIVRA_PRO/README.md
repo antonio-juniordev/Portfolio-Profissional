@@ -6,7 +6,7 @@
 
 O Optivra Pro é uma aplicação desktop desenvolvida em Python, voltada à gestão de operações em optometria.
 
-O projeto nasceu da identificação de um problema operacional: informações de pacientes, consultas, prescrições e acompanhamentos estavam distribuídas entre planilhas e documentos independentes.
+O projeto surgiu da identificação de um problema operacional: informações de pacientes, consultas, prescrições e acompanhamentos estavam distribuídas entre planilhas e documentos independentes.
 
 Essa fragmentação dificultava a localização de históricos, o acompanhamento de retornos e a organização das atividades do dia a dia.
 
@@ -18,23 +18,23 @@ Desenvolver um sistema de gestão capaz de organizar informações, integrar rot
 
 ## 3. Principais funcionalidades
 
-- **Cadastro de pacientes:** registro, organização e pesquisa de informações cadastrais.
-- **Gestão de consultas:** registro e organização dos atendimentos.
-- **Prontuário:** consulta ao histórico e aos registros dos pacientes.
-- **Documentos e prescrições:** geração de documentos em PDF.
-- **Pós-consulta:** acompanhamento de contatos e pendências.
-- **Retornos anuais:** controle e organização dos retornos previstos.
-- **Aniversariantes:** identificação dos pacientes por período.
-- **Relatórios:** geração e exportação de informações em PDF e Excel.
+- Cadastro e pesquisa de pacientes.
+- Registro e gestão de consultas.
+- Histórico e prontuário.
+- Emissão de receitas e documentos.
+- Acompanhamento pós-consulta.
+- Controle de retornos anuais.
+- Gestão de aniversariantes.
+- Geração de relatórios em PDF e Excel.
 
 ## 4. Tecnologias utilizadas
 
-- **Python:** lógica e desenvolvimento da aplicação.
-- **Tkinter / ttk:** construção da interface gráfica.
-- **SQLite:** armazenamento local de dados.
-- **ReportLab:** geração de documentos PDF.
-- **OpenPyXL:** integração e manipulação de planilhas Excel.
-- **Requests:** integração para consulta de CEP.
+- Python
+- Tkinter / ttk
+- SQLite
+- ReportLab
+- OpenPyXL
+- Requests
 
 ## 5. Metodologia de desenvolvimento — AI-Assisted Development
 
@@ -42,20 +42,20 @@ O Optivra Pro foi construído utilizando uma abordagem de desenvolvimento assist
 
 As ferramentas de IA foram utilizadas como apoio técnico durante diferentes etapas da construção e evolução do sistema, incluindo implementação de funcionalidades, análise de código, revisão e resolução de problemas.
 
-O processo foi conduzido a partir de uma atuação orientada ao produto, envolvendo:
+O processo envolveu:
 
 - Idealização da solução e identificação do problema.
 - Levantamento e estruturação de requisitos.
 - Planejamento dos módulos e fluxos operacionais.
 - Organização e migração de dados.
-- Construção assistida por IA.
+- Construção assistida por IA, com implementação em Python.
 - Testes funcionais, validação e melhorias iterativas.
 
-A Inteligência Artificial atuou como ferramenta de apoio ao desenvolvimento, enquanto as decisões sobre necessidades, prioridades, funcionalidades e validação da solução foram conduzidas no processo de construção do produto.
+As decisões sobre necessidades, prioridades e funcionalidades, assim como a validação da solução, foram conduzidas durante o processo de construção do produto.
 
-**Classificação:** Desenvolvimento assistido por IA (AI-Assisted Development). Não se trata de uma solução exclusivamente No-Code.
+**Classificação:** Desenvolvimento assistido por IA. Não se trata de uma solução exclusivamente No-Code.
 
-## 6. Minha participação no projeto
+## 6. Minha participação
 
 **Antonio Junior — Idealização, construção e validação**
 
@@ -63,19 +63,80 @@ Minha atuação envolveu a identificação da necessidade operacional, concepç�
 
 O projeto representa a aplicação prática da experiência em processos e negócios na construção de uma solução tecnológica.
 
-## 7. Demonstração
+---
 
-O projeto é apresentado por meio de capturas de tela da aplicação e exemplos de documentos gerados pelo sistema, utilizando dados fictícios para demonstração.
+# 7. Demonstração visual do sistema
 
-## 8. Proteção e disponibilidade
+As imagens a seguir apresentam os principais módulos e recursos do Optivra Pro.
 
-Este repositório apresenta o projeto para fins de portfólio profissional.
+## 7.1 Interface e gestão
 
-O código-fonte e o banco de dados original permanecem privados. As demonstrações públicas utilizam materiais e dados fictícios.
+### Tela inicial
+![Tela inicial](imagens/01-tela-inicial.png)
+
+### Cadastro de pacientes
+![Cadastro de pacientes](imagens/02-cadastro-paciente.png)
+
+### Painel de consultas
+![Painel de consultas](imagens/03-painel-consultas.png)
+
+## 7.2 Consultas e prontuário
+
+### Ficha de consulta
+![Ficha de consulta](imagens/04-ficha-consulta.png)
+
+### Ficha de consulta — continuação
+![Ficha de consulta continuação](imagens/05-ficha-consulta1.png)
+
+### Prontuário
+![Prontuário](imagens/06-prontuario.png)
+
+## 7.3 Acompanhamento
+
+### Pós-consulta
+![Pós-consulta](imagens/07-pos-consulta.png)
+
+### Retornos anuais
+![Retornos anuais](imagens/08-retornos-anuais.png)
+
+### Aniversariantes
+![Aniversariantes](imagens/09-aniversarios.png)
+
+### Central de relatórios
+![Central de relatórios](imagens/10-central-relatorios.png)
 
 ---
 
-**Optivra Pro**  
-Sistema de Gestão em Optometria  
+# 8. Documentos e relatórios gerados
+
+Além da interface, o sistema oferece recursos para geração e organização de documentos.
+
+### Receita óptica
+![Receita óptica](imagens/11-receita_optica.png)
+
+### Relatório demonstrativo
+![Relatório demonstrativo](imagens/12-relatorio.png)
+
+### Relatório de aniversariantes
+![Relatório de aniversariantes](imagens/13-relatorio_aniversariantes_ficticio.png)
+
+### Relatório de pós-consulta
+![Relatório de pós-consulta](imagens/14-relatorio_pos_consulta.png)
+
+### Exportação para Excel
+![Relatório Excel](imagens/15-relatorio_xls_ficticio.png)
+
+---
+
+## 9. Proteção e disponibilidade
+
+Este repositório apresenta o projeto para fins de portfólio profissional.
+
+O código-fonte e o banco de dados original permanecem privados. As imagens públicas utilizam materiais demonstrativos e dados fictícios.
+
+---
+
+**Optivra Pro — Sistema de Gestão em Optometria**
+
 **Antonio Junior**  
 AI Builder | Soluções Digitais | Tecnologia aplicada a Negócios
